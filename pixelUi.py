@@ -55,13 +55,13 @@ class PixelGridCreatorWindow(QtWidgets.QDialog):
             '''
                 QDialog {
                     background-color: #48756d; 
-                    font-family: Arial, sans-serif; /* ใช้ Font ที่หาเจอง่าย */
+                    font-family: Arial, sans-serif; 
             }
                 QPushButton {
                     background-color: #1b3833;
                     color: #f0f0f0;
                     border: 1px solid #222222;
-                    border-radius: 4px;         /* ทำให้ขอบมนเล็กน้อย */
+                    border-radius: 4px;         
                     padding: 5px;
                     font-weight: bold;
             }
